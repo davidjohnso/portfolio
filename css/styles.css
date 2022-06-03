@@ -4,13 +4,18 @@ header {
 
 ul {
   list-style: none;
+  display:flex;
+}
+
+li {
+  flex: 25%;
 }
 
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 80%;
+  width: auto;
 }
 
 img:hover {
@@ -21,8 +26,9 @@ ol {
   list-style: none;
 }
 
-.container {
+.about-me, .projects {
   display:flex;
+  margin-top: 2%;
 }
 
 .column {
