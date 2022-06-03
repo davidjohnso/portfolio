@@ -28,6 +28,7 @@ ol {
   text-align: center;
   text-decoration: none;
   float: left;
+  border-radius: 50%;
 }
 
 .fa:hover {
