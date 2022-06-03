@@ -28,29 +28,13 @@ ol {
   text-align: center;
   text-decoration: none;
   float: left;
-  border-radius: 50%;
+  color: black;
 }
 
 .fa:hover {
   opacity: 0.7;
 }
 
-.fa-github {
-  background: black;
-  color: white;
-}
-
-.fa-linkedin {
-  background: darkblue;
-  color: white;
-}
-
-.fa-facebook {
-  background: blue;
-  color: white;
-}
-
-.fa-instagram {
-  background: violet;
-  color: white;
+.fa-github, .fa-linkedin, .fa-facebook {
+  margin-right: 1%;
 }
