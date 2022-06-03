@@ -33,3 +33,23 @@ ol {
 .fa:hover {
   opacity: 0.7;
 }
+
+.fa-github {
+  background: black;
+  color: white;
+}
+
+.fa-linkedin {
+  background: darkblue;
+  color: white;
+}
+
+.fa-facebook {
+  background: blue;
+  color: white;
+}
+
+.fa-instagram {
+  background: violet;
+  color: white;
+}
