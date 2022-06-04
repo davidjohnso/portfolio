@@ -1,3 +1,6 @@
+body {
+  width: 100%;
+}
 header {
   text-align: center;
 }
@@ -14,8 +17,7 @@ li {
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 5px;
-  width: auto;
+  /* padding: 5px; */
 }
 
 img:hover {
@@ -26,9 +28,9 @@ ol {
   list-style: none;
 }
 
-.about-me, .projects {
+.container {
   display:flex;
-  margin-top: 2%;
+  margin-top: 5%;
 }
 
 .column {
