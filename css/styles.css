@@ -12,6 +12,11 @@ h1 {
   font-family: 'Dancing Script', cursive;
 }
 
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 12px;
+}
+
 ul {
   list-style: none;
   display:flex;
