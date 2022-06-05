@@ -10,7 +10,7 @@
 
 ## Description
 
-[Portfolio Landing Page](https://davidjohnso.github.io/portfolio) showcasing HTML and CSS to grab the visitors attention. Presenting a brief bio of the author and directing visitors to other profiles and projects.
+[Portfolio Page](https://davidjohnso.github.io/portfolio) showcasing HTML and CSS to grab the visitors attention. Presenting a brief bio of the author and directing visitors to other profiles and projects.
 
 In the future, the landing page will change photos, colors and update projects each season. 
 
