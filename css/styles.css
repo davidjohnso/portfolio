@@ -26,6 +26,15 @@ li {
   flex: 25%;
 }
 
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: lightgrey;
+}
+
 img {
   margin: 1% 0% 0% 0%;
   display: block;
