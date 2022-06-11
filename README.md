@@ -21,7 +21,7 @@
 
 ## Known Bugs
 
-* Header menu (ul.li) not clickable.
+* Header menu is clickable, but does not have a path.
 
 ## License
 
